@@ -30,21 +30,6 @@ The significance of this project lies in its ability to improve the lives of Wor
 
 What sets this project apart from related ones is its focus on seamless integration with translate.wordpress.org and its emphasis on proper localization preparation. By providing a clear indication of which plugins are ready for translation, users can have confidence in the quality and completeness of the localized versions. This project aims to streamline the translation process and ultimately improve the overall experience for WordPress users seeking multilingual support for their websites.
 
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-<details>
-<summary>Screenshots</summary>
-<br>
-
-> **[?]**
-> Please provide your screenshots here.
-
-|                               Home Page                               |                               Login Page                               |
-| :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-| <img src="docs/images/screenshot.png" title="Home Page" width="100%"> | <img src="docs/images/screenshot.png" title="Login Page" width="100%"> |
-
-</details>
-
 The technologies used in this WordPress plugin project are as follows:
 
 **Client:** JavaScript, WordPress API, HTML, CSS
@@ -103,21 +88,21 @@ Overall, this plugin aims to simplify the translation process, provide transpare
 
 ## FAQ
 
-= What are the different subprojects of the plugin? =
-*   **Development** - Translation of the *Development* version of the plugin.
-*   **Development Readme** - Readme of the *Development* version of the plugin page on [wp.org/plugins](https://wordpress.org/plugins/).
-*   **Stable** - Translation of the *Stable* version of the plugin.
-*   **Stable Readme** - Readme of the *Stable* version of the plugin page on [wp.org/plugins](https://wordpress.org/plugins/).
+**What are the different subprojects of the plugin?**
+   **Development** - Translation of the *Development* version of the plugin.
+  **Development Readme** - Readme of the *Development* version of the plugin page on [wp.org/plugins](https://wordpress.org/plugins/).
+  **Stable** - Translation of the *Stable* version of the plugin.
+  **Stable Readme** - Readme of the *Stable* version of the plugin page on [wp.org/plugins](https://wordpress.org/plugins/).
 
-= How can I translate a plugin? =
+**How can I translate a plugin?**
 *   Register and log in to [wp.org](https://login.wordpress.org/).
 *   Click on the stats bar of the plugin subproject you want to translate.
 *   Familiarize yourself with the Polyglots [Translator’s Handbook](https://make.wordpress.org/polyglots/handbook/).
 *   Translate the plugin strings according to the rules specified by your [Locale Translation Team](https://make.wordpress.org/polyglots/teams/).
 
-= Should I translate both the Stable and Development versions? =
+**Should I translate both the Stable and Development versions?**
 Since mid-April 2016, not only new strings but also edits are synchronized between the development and stable versions (in both directions, only approved translations). When a plugin releases a new version, all translations are copied from the development version to the stable version.
 
-= How long does it take for a translation to become available? =
+**How long does it take for a translation to become available?**
 Translations for the readme are published almost immediately. The language pack for a plugin will be generated once 90% of the strings in the Stable (latest release) subproject have been translated and approved.
 
